@@ -1,0 +1,19 @@
+Department,CRN,Course,CourseTitle,Relevance,Credits,Prerequisites,Choice,Flag,Term Res.
+Accounting,,ACCT101,Principles of Accounting I,Career Studies,3,,0,Mandatory,
+Accounting,,ACCT102,Principles of Accounting II,Career Studies,3,ACCT101,0,Mandatory,
+Accounting,,ACCT105,Introduction to QuickBooks,Career Studies,3,,0,Mandatory,Spring
+Accounting,,ACCT112 ,Managerial Accounting,Career Studies,3,ACCT101,0,Mandatory,Spring
+Accounting,,ACCT115,Federal Income Tax,Career Studies,3,,0,Mandatory,Fall
+Accounting,,ACCT203,Intermediate Accounting I,Career Studies,3,ACCT102,0,Mandatory,Fall
+Accounting,,ACCT204,Intermediate Accounting II,Career Studies,3,ACCT203,0,Mandatory,Spring
+Accounting,,ACCT299 ,Accounting Internship,Career Studies,3,,1,,
+Business,,BUSI105,Introduction to Business,Career Studies,3,,1,,
+Business,,BUSI165,Computer Applications in Business,Career Studies,3,,1,,
+Business,,BUSI221,Business Law I,Career Studies,3,,1,,
+Business,,BUSI222,Business Law II,Career Studies,3,,1,,Summer
+Economics,,ECON106,Micro Economics,Career Studies,3,,1,,
+Economics,,ECON225,Business Statistics,Career Studies,3,,1,,
+English,,ENGL121,English Composition: The Writing Process,Gen Ed,3,,0,Manditory,
+Economics,,ECON105,Macro Economics,Gen Ed,3,,2,Recomended,
+English,,ENGL122,English Composition: Writing and Research,Gen Ed,3,ENGL 121,2,Recomended,
+Speech,,SPCH115,Public Speaking,Gen Ed,3,,2,Recomended,
